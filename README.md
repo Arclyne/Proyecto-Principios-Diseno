@@ -1,1 +1,1 @@
-# Proyecto-Principios-Dise-o
+# Proyecto-Principios-Diseño
