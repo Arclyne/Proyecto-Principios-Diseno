@@ -477,23 +477,22 @@
 	<text x="40.00" y="987.00" textLength="91" style="font-family:ARIAL; font-weight:0; font-style:normal; font-size:10px; fill:#3C3C3C;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00; stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 40.00 987.00)">GUI_MessageError.</text>
 	<text x="40.00" y="1000.00" textLength="106" style="font-family:ARIAL; font-weight:0; font-style:normal; font-size:10px; fill:#3C3C3C;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00; stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 40.00 1000.00)">5. Fin del caso de uso.</text>
 	<text x="40.00" y="1026.00" textLength="109" style="font-family:ARIAL; font-weight:0; font-style:normal; font-size:10px; fill:#3C3C3C;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00; stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 40.00 1026.00)">EX-02: Error al inactivar</text>
-	<text x="40.00" y="1039.00" textLength="107" style="font-family:ARIAL; font-weight:0; font-style:normal; font-size:10px; fill:#3C3C3C;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00; stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 40.00 1039.00)">1. El cambio de estado</text>
-	<text x="40.00" y="1052.00" textLength="123" style="font-family:ARIAL; font-weight:0; font-style:normal; font-size:10px; fill:#3C3C3C;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00; stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 40.00 1052.00)">devuelve false u ocurre un</text>
-	<text x="40.00" y="1065.00" textLength="134" style="font-family:ARIAL; font-weight:0; font-style:normal; font-size:10px; fill:#3C3C3C;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00; stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 40.00 1065.00)">problema de conexión con la</text>
-	<text x="40.00" y="1078.00" textLength="70" style="font-family:ARIAL; font-weight:0; font-style:normal; font-size:10px; fill:#3C3C3C;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00; stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 40.00 1078.00)">base de datos.</text>
-	<text x="40.00" y="1091.00" textLength="96" style="font-family:ARIAL; font-weight:0; font-style:normal; font-size:10px; fill:#3C3C3C;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00; stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 40.00 1091.00)">2. El SPP muestra la</text>
-	<text x="40.00" y="1104.00" textLength="119" style="font-family:ARIAL; font-weight:0; font-style:normal; font-size:10px; fill:#3C3C3C;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00; stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 40.00 1104.00)">GUI_MessageError con el</text>
-	<text x="40.00" y="1117.00" textLength="117" style="font-family:ARIAL; font-weight:0; font-style:normal; font-size:10px; fill:#3C3C3C;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00; stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 40.00 1117.00)">mensaje &quot;No se pudieron</text>
-	<text x="40.00" y="1130.00" textLength="130" style="font-family:ARIAL; font-weight:0; font-style:normal; font-size:10px; fill:#3C3C3C;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00; stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 40.00 1130.00)">inactivar las organizaciones.</text>
-	<text x="40.00" y="1143.00" textLength="138" style="font-family:ARIAL; font-weight:0; font-style:normal; font-size:10px; fill:#3C3C3C;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00; stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 40.00 1143.00)">Por favor intente nuevamente</text>
-	<text x="40.00" y="1156.00" textLength="137" style="font-family:ARIAL; font-weight:0; font-style:normal; font-size:10px; fill:#3C3C3C;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00; stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 40.00 1156.00)">en unos minutos.&quot; y la opción</text>
-	<text x="40.00" y="1169.00" textLength="47" style="font-family:ARIAL; font-weight:0; font-style:normal; font-size:10px; fill:#3C3C3C;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00; stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 40.00 1169.00)">&quot;Aceptar&quot;.</text>
-	<text x="40.00" y="1182.00" textLength="100" style="font-family:ARIAL; font-weight:0; font-style:normal; font-size:10px; fill:#3C3C3C;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00; stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 40.00 1182.00)">3. El COORDINADOR</text>
-	<text x="40.00" y="1195.00" textLength="144" style="font-family:ARIAL; font-weight:0; font-style:normal; font-size:10px; fill:#3C3C3C;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00; stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 40.00 1195.00)">selecciona la opción &quot;Aceptar&quot;.</text>
-	<text x="40.00" y="1208.00" textLength="84" style="font-family:ARIAL; font-weight:0; font-style:normal; font-size:10px; fill:#3C3C3C;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00; stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 40.00 1208.00)">4. El SPP cierra la</text>
-	<text x="40.00" y="1221.00" textLength="91" style="font-family:ARIAL; font-weight:0; font-style:normal; font-size:10px; fill:#3C3C3C;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00; stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 40.00 1221.00)">GUI_MessageError.</text>
-	<text x="40.00" y="1234.00" textLength="147" style="font-family:ARIAL; font-weight:0; font-style:normal; font-size:10px; fill:#3C3C3C;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00; stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 40.00 1234.00)">5. El flujo continúa en el paso 2</text>
-	<text x="40.00" y="1247.00" textLength="33" style="font-family:ARIAL; font-weight:0; font-style:normal; font-size:10px; fill:#3C3C3C;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00; stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 40.00 1247.00)">del FN.</text>
+	<text x="40.00" y="1039.00" textLength="144" style="font-family:ARIAL; font-weight:0; font-style:normal; font-size:10px; fill:#3C3C3C;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00; stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 40.00 1039.00)">1. Ocurre un error al ejecutar la</text>
+	<text x="40.00" y="1052.00" textLength="139" style="font-family:ARIAL; font-weight:0; font-style:normal; font-size:10px; fill:#3C3C3C;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00; stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 40.00 1052.00)">inactivación o un problema de</text>
+	<text x="40.00" y="1065.00" textLength="146" style="font-family:ARIAL; font-weight:0; font-style:normal; font-size:10px; fill:#3C3C3C;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00; stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 40.00 1065.00)">conexión con la base de datos.</text>
+	<text x="40.00" y="1078.00" textLength="96" style="font-family:ARIAL; font-weight:0; font-style:normal; font-size:10px; fill:#3C3C3C;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00; stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 40.00 1078.00)">2. El SPP muestra la</text>
+	<text x="40.00" y="1091.00" textLength="119" style="font-family:ARIAL; font-weight:0; font-style:normal; font-size:10px; fill:#3C3C3C;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00; stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 40.00 1091.00)">GUI_MessageError con el</text>
+	<text x="40.00" y="1104.00" textLength="117" style="font-family:ARIAL; font-weight:0; font-style:normal; font-size:10px; fill:#3C3C3C;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00; stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 40.00 1104.00)">mensaje &quot;No se pudieron</text>
+	<text x="40.00" y="1117.00" textLength="130" style="font-family:ARIAL; font-weight:0; font-style:normal; font-size:10px; fill:#3C3C3C;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00; stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 40.00 1117.00)">inactivar las organizaciones.</text>
+	<text x="40.00" y="1130.00" textLength="138" style="font-family:ARIAL; font-weight:0; font-style:normal; font-size:10px; fill:#3C3C3C;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00; stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 40.00 1130.00)">Por favor intente nuevamente</text>
+	<text x="40.00" y="1143.00" textLength="137" style="font-family:ARIAL; font-weight:0; font-style:normal; font-size:10px; fill:#3C3C3C;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00; stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 40.00 1143.00)">en unos minutos.&quot; y la opción</text>
+	<text x="40.00" y="1156.00" textLength="47" style="font-family:ARIAL; font-weight:0; font-style:normal; font-size:10px; fill:#3C3C3C;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00; stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 40.00 1156.00)">&quot;Aceptar&quot;.</text>
+	<text x="40.00" y="1169.00" textLength="100" style="font-family:ARIAL; font-weight:0; font-style:normal; font-size:10px; fill:#3C3C3C;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00; stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 40.00 1169.00)">3. El COORDINADOR</text>
+	<text x="40.00" y="1182.00" textLength="144" style="font-family:ARIAL; font-weight:0; font-style:normal; font-size:10px; fill:#3C3C3C;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00; stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 40.00 1182.00)">selecciona la opción &quot;Aceptar&quot;.</text>
+	<text x="40.00" y="1195.00" textLength="84" style="font-family:ARIAL; font-weight:0; font-style:normal; font-size:10px; fill:#3C3C3C;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00; stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 40.00 1195.00)">4. El SPP cierra la</text>
+	<text x="40.00" y="1208.00" textLength="91" style="font-family:ARIAL; font-weight:0; font-style:normal; font-size:10px; fill:#3C3C3C;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00; stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 40.00 1208.00)">GUI_MessageError.</text>
+	<text x="40.00" y="1221.00" textLength="147" style="font-family:ARIAL; font-weight:0; font-style:normal; font-size:10px; fill:#3C3C3C;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00; stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 40.00 1221.00)">5. El flujo continúa en el paso 2</text>
+	<text x="40.00" y="1234.00" textLength="33" style="font-family:ARIAL; font-weight:0; font-style:normal; font-size:10px; fill:#3C3C3C;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00; stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 40.00 1234.00)">del FN.</text>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#FA8072;fill-opacity:1.00; stroke:#9A8484; stroke-opacity:1.00;">
 <ellipse cx="432.00" cy="378.00" rx="21.00" ry="21.00" shape-rendering="auto"  />
@@ -577,13 +576,13 @@
 	<text x="668.00" y="278.00" textLength="120" style="font-family:ARIAL; font-weight:700; font-style:normal; font-size:10px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00; stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 668.00 278.00)">loadActiveOrganizations</text>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#FA8072;fill-opacity:1.00; stroke:#9A8484; stroke-opacity:1.00;">
-<ellipse cx="548.00" cy="754.00" rx="21.00" ry="21.00" shape-rendering="auto"  />
+<ellipse cx="548.00" cy="762.00" rx="21.00" ry="21.00" shape-rendering="auto"  />
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:0.00; stroke:#9A8484; stroke-opacity:1.00;">
-  <path d="M 527 754 L 523 754 M 523 736 L 523 772" shape-rendering="auto"/>
+  <path d="M 527 762 L 523 762 M 523 744 L 523 780" shape-rendering="auto"/>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00;">
-	<text x="501.00" y="790.00" textLength="93" style="font-family:ARIAL; font-weight:700; font-style:normal; font-size:10px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00; stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 501.00 790.00)">GUI_MessageError</text>
+	<text x="501.00" y="798.00" textLength="93" style="font-family:ARIAL; font-weight:700; font-style:normal; font-size:10px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00; stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 501.00 798.00)">GUI_MessageError</text>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#FA8072;fill-opacity:1.00; stroke:#9A8484; stroke-opacity:1.00;">
 <ellipse cx="432.00" cy="508.00" rx="21.00" ry="21.00" shape-rendering="auto"  />
@@ -608,24 +607,24 @@
   <path d="M 523 386 L 457 386" shape-rendering="auto"/>
   <path d="M 826 256 L 746 256" shape-rendering="auto"/>
   <path d="M 876 246 L 951 246" shape-rendering="auto"/>
+  <path d="M 850 280 L 850 646 L 707 646" shape-rendering="auto"/>
   <path d="M 553 292 L 553 357" shape-rendering="auto"/>
   <path d="M 573 256 L 696 256" shape-rendering="auto"/>
   <path d="M 543 518 L 543 538" shape-rendering="auto"/>
-  <path d="M 573 473 L 973 473 L 973 280" shape-rendering="auto"/>
+  <path d="M 573 473 L 844 473 A 6.00 -6.00 180.00 0 0 856 473 L 973 473 L 973 280" shape-rendering="auto"/>
   <path d="M 573 486 L 683 486 L 683 618" shape-rendering="auto"/>
-  <path d="M 250 529 L 250 765 L 523 766" shape-rendering="auto"/>
+  <path d="M 250 529 L 250 774 L 523 774" shape-rendering="auto"/>
   <path d="M 295 514 L 407 516" shape-rendering="auto"/>
   <path d="M 260 431 L 260 255 L 523 256" shape-rendering="auto"/>
   <path d="M 260 529 L 260 655 L 523 656" shape-rendering="auto"/>
-  <path d="M 683 677 L 683 757 L 573 757" shape-rendering="auto"/>
+  <path d="M 683 677 L 683 764 L 573 764" shape-rendering="auto"/>
   <path d="M 433 416 L 433 487" shape-rendering="auto"/>
   <path d="M 553 597 L 553 623" shape-rendering="auto"/>
-  <path d="M 850 280 L 850 467 A 6.00 -6.00 180.00 0 0 850 479 L 850 646 L 707 646" shape-rendering="auto"/>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00;">
 	<text x="326.00" y="246.00" textLength="139" style="font-family:ARIAL; font-weight:0; font-style:normal; font-size:10px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00; stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 326.00 246.00)">selecciona y clic en &quot;Inactivar&quot;</text>
 	<text x="353.00" y="651.00" textLength="76" style="font-family:ARIAL; font-weight:0; font-style:normal; font-size:10px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00; stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 353.00 651.00)">clic en &quot;Aceptar&quot;</text>
 	<text x="313.00" y="511.00" textLength="76" style="font-family:ARIAL; font-weight:0; font-style:normal; font-size:10px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00; stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 313.00 511.00)">clic en &quot;Aceptar&quot;</text>
-	<text x="348.00" y="761.00" textLength="76" style="font-family:ARIAL; font-weight:0; font-style:normal; font-size:10px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00; stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 348.00 761.00)">clic en &quot;Aceptar&quot;</text>
+	<text x="348.00" y="770.00" textLength="76" style="font-family:ARIAL; font-weight:0; font-style:normal; font-size:10px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00; stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 348.00 770.00)">clic en &quot;Aceptar&quot;</text>
 </g>
 </svg>
